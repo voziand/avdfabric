@@ -26,6 +26,16 @@
       "switches": ""
     },
     {
+      "name": "msrdcwebrtcsvc",
+      "source": "chocolatey",
+      "switches": ""
+    },
+    {
+      "name": "vcredist-all",
+      "source": "chocolatey",
+      "switches": ""
+    },
+    {
       "name": "obsidian",
       "source": "custom",
       "installerUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.exe",
