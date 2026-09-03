@@ -157,6 +157,18 @@
       "value": 0
     },
     {
+      "path": "HKLM:\\SOFTWARE\\Microsoft\\Teams",
+      "name": "IsWVDEnvironment",
+      "type": "DWORD",
+      "value": 1
+    },
+    {
+      "path": "HKLM:\\SYSTEM\\CurrentControlSet\\Control\\Terminal Server\\AddIns\\WebRTC Redirector\\Policy",
+      "name": "DisableRAILAppSharing",
+      "type": "DWORD",
+      "value": 0
+    },
+    {
       "path": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
       "name": "HideSCAMeetNow",
       "type": "DWORD",
