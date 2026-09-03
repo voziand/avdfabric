@@ -1,5 +1,0 @@
-flameshot
-firefox
-vscodium
-notepadplusplus
-obsidian

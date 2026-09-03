@@ -1,0 +1,31 @@
+{
+  "packages": [
+    {
+      "name": "flameshot",
+      "source": "chocolatey"
+    },
+    {
+      "name": "powershell-core",
+      "source": "chocolatey"
+    },
+    {
+      "name": "firefox",
+      "source": "chocolatey"
+    },
+    {
+      "name": "vscodium",
+      "source": "chocolatey"
+    },
+    {
+      "name": "notepadplusplus",
+      "source": "chocolatey"
+    },
+    {
+      "name": "obsidian",
+      "source": "github",
+      "repo": "obsidianmd/obsidian-releases",
+      "filePattern": "Obsidian-*-allusers.exe",
+      "silentArgs": "/S"
+    }
+  ]
+}
