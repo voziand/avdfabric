@@ -41,6 +41,13 @@
       "installerUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.exe",
       "detectPath": "C:\\Program Files\\Obsidian\\Obsidian.exe",
       "switches": "/S /ALLUSERS"
+    },
+    {
+      "name": "webrtc-redirector",
+      "source": "custom",
+      "installerUrl": "https://aka.ms/msrdcwebrtcsvc/msi",
+      "switches": "/qn /norestart",
+      "detectPath": "C:\\Program Files\\Remote Desktop WebRTC Redirector\\MsRdcWebRTCSvc.exe"
     }
   ]
 }
