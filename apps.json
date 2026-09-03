@@ -2,23 +2,28 @@
   "packages": [
     {
       "name": "flameshot",
-      "source": "chocolatey"
+      "source": "chocolatey",
+      "switches": ""
     },
     {
       "name": "powershell-core",
-      "source": "chocolatey"
+      "source": "chocolatey",
+      "switches": ""
     },
     {
       "name": "firefox",
-      "source": "chocolatey"
+      "source": "chocolatey",
+      "switches": ""
     },
     {
       "name": "vscodium",
-      "source": "chocolatey"
+      "source": "chocolatey",
+      "switches": ""
     },
     {
       "name": "notepadplusplus",
-      "source": "chocolatey"
+      "source": "chocolatey",
+      "switches": ""
     },
     {
       "name": "obsidian",
