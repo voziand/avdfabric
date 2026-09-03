@@ -1,0 +1,5 @@
+Flameshot.Flameshot
+Mozilla.Firefox
+VSCodium.VSCodium
+Notepad++.Notepad++
+Obsidian.Obsidian
