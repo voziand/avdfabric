@@ -1,7 +1,8 @@
 #Requires -RunAsAdministrator
 $ErrorActionPreference = 'Stop'
 $appsUrl = 'https://raw.githubusercontent.com/voziand/avdfabric/main/apps.json'
-$optimizationsUrl = 'https://raw.githubusercontent.com/voziand/avdfabric//main/optimizations.pooled.json'
+$ImageType        = $env:IMAGE_TYPE
+$OptimizationsUrl = $env:OPTIMIZATIONS_URL
 $LogFile = 'C:\Windows\Temp\InstallApps.log'
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
